@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">d10edca04721111024e32782846d4374</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-08 17:51:35</sys_created_on>
+        <sys_id>35b6dfb9e1711110fa9be9a3694c303b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-08 17:51:35</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
