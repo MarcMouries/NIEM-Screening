@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_niem_scr_leadsourcecategorycode">
+    <sn_niem_scr_leadsourcecategorycode action="INSERT_OR_UPDATE">
+        <code>SAC</code>
+        <description>SAC Discretion 8 CFR 274a.9(b)</description>
+        <sys_class_name>sn_niem_scr_leadsourcecategorycode</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-08 17:52:10</sys_created_on>
+        <sys_id>1ad653f9e1711110fa9be9a3694c30d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAC</sys_name>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_update_name>sn_niem_scr_leadsourcecategorycode_1ad653f9e1711110fa9be9a3694c30d3</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-08 17:52:10</sys_updated_on>
+    </sn_niem_scr_leadsourcecategorycode>
+</record_update>

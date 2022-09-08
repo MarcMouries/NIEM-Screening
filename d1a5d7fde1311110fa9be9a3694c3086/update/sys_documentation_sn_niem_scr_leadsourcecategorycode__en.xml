@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="LeadSourceCategoryCode" language="en" table="sn_niem_scr_leadsourcecategorycode">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>LeadSourceCategoryCode</label>
+            <language>en</language>
+            <name>sn_niem_scr_leadsourcecategorycode</name>
+            <plural>LeadSourceCategoryCodes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>marc.mouries</sys_created_by>
+            <sys_created_on>2022-09-08 17:51:01</sys_created_on>
+            <sys_id>2196dbb9e1711110fa9be9a3694c30f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>LeadSourceCategoryCode</sys_name>
+            <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+            <sys_update_name>sys_documentation_sn_niem_scr_leadsourcecategorycode__en</sys_update_name>
+            <sys_updated_by>marc.mouries</sys_updated_by>
+            <sys_updated_on>2022-09-08 17:51:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

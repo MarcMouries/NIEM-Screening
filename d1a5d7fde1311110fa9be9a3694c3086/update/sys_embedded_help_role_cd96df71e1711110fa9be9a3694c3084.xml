@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_niem_scr.leadsourcecategorycode_user" name="sn_niem_scr.leadsourcecategorycode_user">0d96df71e1711110fa9be9a3694c3081</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-08 17:50:59</sys_created_on>
+        <sys_id>cd96df71e1711110fa9be9a3694c3084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0d96df71e1711110fa9be9a3694c3081</sys_name>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cd96df71e1711110fa9be9a3694c3084</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-08 17:50:59</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

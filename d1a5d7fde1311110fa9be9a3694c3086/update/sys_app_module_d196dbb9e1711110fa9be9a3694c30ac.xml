@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="LeadSourceCategoryCode">5996dbb9e1711110fa9be9a3694c30a8</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>LeadSourceCategoryCodes</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_niem_scr_leadsourcecategorycode</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_niem_scr.leadsourcecategorycode_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>marc.mouries</sys_created_by>
+        <sys_created_on>2022-09-08 17:51:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d196dbb9e1711110fa9be9a3694c30ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LeadSourceCategoryCodes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_update_name>sys_app_module_d196dbb9e1711110fa9be9a3694c30ac</sys_update_name>
+        <sys_updated_by>marc.mouries</sys_updated_by>
+        <sys_updated_on>2022-09-08 17:51:00</sys_updated_on>
+        <timeline_page/>
+        <title>LeadSourceCategoryCodes</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
