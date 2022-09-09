@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Lead" max_length="40" name="sn_niem_scr_lead" type="collection">
+        <element label="Source" max_length="32" name="source" reference="sn_niem_scr_leadsourcecategorycode" type="reference"/>
+        <element label="Status" max_length="32" name="status" reference="sn_niem_scr_leadstatuscategorycode" type="reference"/>
+    </element>
+</database>
