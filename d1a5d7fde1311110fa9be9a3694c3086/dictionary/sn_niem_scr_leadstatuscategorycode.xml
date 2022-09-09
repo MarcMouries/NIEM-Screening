@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Lead Status Category Code" max_length="40" name="sn_niem_scr_leadstatuscategorycode" type="collection">
+        <element display="true" label="Code" max_length="5" name="code" type="string_full_utf8"/>
+        <element label="Description" max_length="255" name="description" type="string_full_utf8"/>
+    </element>
+</database>
