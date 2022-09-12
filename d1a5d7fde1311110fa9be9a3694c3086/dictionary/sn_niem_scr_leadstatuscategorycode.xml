@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="Lead Source Category Code" max_length="40" name="sn_niem_scr_leadsourcecategorycode" sizeclass="37" type="collection">
+    <element attributes="update_synch=true" extends="sys_metadata" label="Lead Status Category Code" max_length="40" name="sn_niem_scr_leadstatuscategorycode" type="collection">
         <element label="Code" max_length="5" name="code" type="string_full_utf8"/>
         <element display="true" label="Description" max_length="255" name="description" type="string_full_utf8"/>
     </element>
