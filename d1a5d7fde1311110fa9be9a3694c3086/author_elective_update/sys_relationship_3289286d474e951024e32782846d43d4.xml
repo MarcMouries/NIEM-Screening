@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>sn_icms_related_persons</basic_apply_to>
+        <basic_query_from>sn_shn_notes</basic_query_from>
+        <insert_callback/>
+        <name>Special Handling Notes</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	current.addQuery('related_record', parent.person);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:53:17</sys_created_on>
+        <sys_id>3289286d474e951024e32782846d43d4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Special Handling Notes</sys_name>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_update_name>sys_relationship_3289286d474e951024e32782846d43d4</sys_update_name>
+        <sys_updated_by>steven.ly</sys_updated_by>
+        <sys_updated_on>2022-09-19 20:55:54</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=3289286d474e951024e32782846d43d4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</application>
+        <file_path/>
+        <instance_id>452b90e0db6919908aea21c40596198f</instance_id>
+        <instance_name>deamosdemo</instance_name>
+        <name>sys_relationship_3289286d474e951024e32782846d43d4</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;sn_icms_related_persons&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;sn_shn_notes&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Special Handling Notes&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	current.addQuery('related_record', parent.person);
+
+})(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field/&gt;&lt;related_list/&gt;&lt;simple_reference&gt;false&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;steven.ly&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-09-19 20:53:17&lt;/sys_created_on&gt;&lt;sys_id&gt;3289286d474e951024e32782846d43d4&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Special Handling Notes&lt;/sys_name&gt;&lt;sys_package display_value="NIEM Screening" source="sn_niem_scr"&gt;d1a5d7fde1311110fa9be9a3694c3086&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NIEM Screening"&gt;d1a5d7fde1311110fa9be9a3694c3086&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_3289286d474e951024e32782846d43d4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;steven.ly&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-09-19 20:55:54&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3289286d474e951024e32782846d43d4"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1618635763</payload_hash>
+        <record_name>Special Handling Notes</record_name>
+        <reverted_from/>
+        <source>6df7006d47ca951024e32782846d435b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:55:54</sys_created_on>
+        <sys_id>816aa0ad474e951024e32782846d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183578939870000001</sys_recorded_at>
+        <sys_updated_by>steven.ly</sys_updated_by>
+        <sys_updated_on>2022-09-19 20:55:54</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>896aa0adac4e951058ba20bb4b4f238a</update_guid>
+        <update_guid_history>896aa0adac4e951058ba20bb4b4f238a:1618635763,b6c9e86da34e9510504d787b600966c6:1509240384</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 21:02:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>45c46f3c2c6144c0a340807033650400</sys_id>
+        <sys_metadata>3289286d474e951024e32782846d43d4</sys_metadata>
+        <sys_name>Special Handling Notes</sys_name>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_parent display_value="Related Persons">95d46429474e951024e32782846d436e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_scope_delete display_value="">6f75336f37c74c3ba36d0abb703ef439</sys_scope_delete>
+        <sys_update_name>sys_relationship_3289286d474e951024e32782846d43d4</sys_update_name>
+        <sys_update_version display_value="sys_relationship_3289286d474e951024e32782846d43d4">816aa0ad474e951024e32782846d438b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

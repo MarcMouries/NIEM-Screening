@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Investigative Case Management (ICMS)">06e928d39771511081dd33271153af82</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Related Persons</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_niem_scr_related_persons</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_niem_scr.related_persons_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:04:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>44ae5c21474e951024e32782846d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Related Persons</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_update_name>sys_app_module_44ae5c21474e951024e32782846d43fc</sys_update_name>
+        <sys_updated_by>steven.ly</sys_updated_by>
+        <sys_updated_on>2022-09-19 20:04:29</sys_updated_on>
+        <timeline_page/>
+        <title>Related Persons</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</application>
+        <file_path/>
+        <instance_id>452b90e0db6919908aea21c40596198f</instance_id>
+        <instance_name>deamosdemo</instance_name>
+        <name>sys_app_module_44ae5c21474e951024e32782846d43fc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Investigative Case Management (ICMS)">06e928d39771511081dd33271153af82</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Related Persons</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sn_niem_scr_related_persons</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>sn_niem_scr.related_persons_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>steven.ly</sys_created_by><sys_created_on>2022-09-19 20:04:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>44ae5c21474e951024e32782846d43fc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Related Persons</sys_name><sys_overrides/><sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package><sys_policy/><sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope><sys_update_name>sys_app_module_44ae5c21474e951024e32782846d43fc</sys_update_name><sys_updated_by>steven.ly</sys_updated_by><sys_updated_on>2022-09-19 20:04:29</sys_updated_on><timeline_page/><title>Related Persons</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1584798194</payload_hash>
+        <record_name>Related Persons</record_name>
+        <reverted_from/>
+        <source>6df7006d47ca951024e32782846d435b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:04:29</sys_created_on>
+        <sys_id>c4ae5c21474e951024e32782846d43ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183575a27d50000001</sys_recorded_at>
+        <sys_updated_by>steven.ly</sys_updated_by>
+        <sys_updated_on>2022-09-19 20:04:29</sys_updated_on>
+        <type>Module</type>
+        <update_guid>00ae5c21054e95108436b201b05f9dff</update_guid>
+        <update_guid_history>00ae5c21054e95108436b201b05f9dff:1584798194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Related Persons">ba8428e5474e951024e32782846d43f9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:30:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>380ae7a36b984c25a00edfece6cf24c1</sys_id>
+        <sys_metadata>44ae5c21474e951024e32782846d43fc</sys_metadata>
+        <sys_name>Related Persons</sys_name>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_scope_delete display_value="">6f75336f37c74c3ba36d0abb703ef439</sys_scope_delete>
+        <sys_update_name>sys_app_module_44ae5c21474e951024e32782846d43fc</sys_update_name>
+        <sys_update_version display_value="sys_app_module_44ae5c21474e951024e32782846d43fc">c4ae5c21474e951024e32782846d43ff</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
