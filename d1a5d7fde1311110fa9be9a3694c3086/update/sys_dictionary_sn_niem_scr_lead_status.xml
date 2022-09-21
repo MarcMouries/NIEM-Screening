@@ -16,7 +16,7 @@
         <column_label>Status</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>submitted</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>

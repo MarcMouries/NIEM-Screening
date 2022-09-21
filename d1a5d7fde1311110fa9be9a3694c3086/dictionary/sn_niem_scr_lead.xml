@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="04f04d16973d115081dd33271153afd8" extends="task" label="Lead" max_length="40" name="sn_niem_scr_lead" type="collection">
+    <element db_object_id="04f04d16973d115081dd33271153afd8" extends="task" label="Lead Screening" max_length="40" name="sn_niem_scr_lead" type="collection">
         <element label="Source" max_length="32" name="source" reference="sn_niem_scr_leadsourcecategorycode" type="reference"/>
-        <element choice="1" label="Status" max_length="32" name="status" type="choice">
+        <element choice="1" default="submitted" label="Status" max_length="32" name="status" type="choice">
             <choice/>
         </element>
     </element>
