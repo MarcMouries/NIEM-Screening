@@ -24,17 +24,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e0714556973d115081dd33271153afef</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Leads</sys_name>
+        <sys_name>Lead Screenings</sys_name>
         <sys_overrides/>
         <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
         <sys_policy/>
         <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
         <sys_update_name>sys_app_module_e0714556973d115081dd33271153afef</sys_update_name>
-        <sys_updated_by>marc.mouries</sys_updated_by>
-        <sys_updated_on>2022-09-09 20:16:22</sys_updated_on>
         <timeline_page/>
-        <title>Leads</title>
+        <title>Lead Screenings</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
