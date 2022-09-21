@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:05:12</sys_created_on>
+        <sys_id>9ece5061474e951024e32782846d43dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_niem_scr_related_organization.sn_niem_scr.related_organization_user</sys_name>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_security_acl display_value="sn_niem_scr_related_organization">96ce5061474e951024e32782846d43db</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9ece5061474e951024e32782846d43dd</sys_update_name>
+        <sys_updated_by>steven.ly</sys_updated_by>
+        <sys_updated_on>2022-09-19 20:05:12</sys_updated_on>
+        <sys_user_role display_value="sn_niem_scr.related_organization_user" name="sn_niem_scr.related_organization_user">d2ce1061474e951024e32782846d435a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</application>
+        <file_path/>
+        <instance_id>452b90e0db6919908aea21c40596198f</instance_id>
+        <instance_name>deamosdemo</instance_name>
+        <name>sys_security_acl_role_9ece5061474e951024e32782846d43dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>steven.ly</sys_created_by><sys_created_on>2022-09-19 20:05:12</sys_created_on><sys_id>9ece5061474e951024e32782846d43dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_niem_scr_related_organization.sn_niem_scr.related_organization_user</sys_name><sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package><sys_policy/><sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope><sys_security_acl display_value="sn_niem_scr_related_organization">96ce5061474e951024e32782846d43db</sys_security_acl><sys_update_name>sys_security_acl_role_9ece5061474e951024e32782846d43dd</sys_update_name><sys_updated_by>steven.ly</sys_updated_by><sys_updated_on>2022-09-19 20:05:12</sys_updated_on><sys_user_role display_value="sn_niem_scr.related_organization_user" name="sn_niem_scr.related_organization_user">d2ce1061474e951024e32782846d435a</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1685779161</payload_hash>
+        <record_name>sn_niem_scr_related_organization.sn_niem_scr.related_organization_user</record_name>
+        <reverted_from/>
+        <source>6df7006d47ca951024e32782846d435b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:05:12</sys_created_on>
+        <sys_id>12ce5061474e951024e32782846d43e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183575acd280000001</sys_recorded_at>
+        <sys_updated_by>steven.ly</sys_updated_by>
+        <sys_updated_on>2022-09-19 20:05:12</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5ace5061444e9510b68f391ada153edf</update_guid>
+        <update_guid_history>5ace5061444e9510b68f391ada153edf:-1685779161</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sn_niem_scr_related_organization.sn_niem_scr.related_organization_user">45a42ce5474e951024e32782846d435d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>steven.ly</sys_created_by>
+        <sys_created_on>2022-09-19 20:30:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>8454249c5fb843fe96edaf89f06f8b01</sys_id>
+        <sys_metadata>9ece5061474e951024e32782846d43dd</sys_metadata>
+        <sys_name>sn_niem_scr_related_organization.sn_niem_scr.related_organization_user</sys_name>
+        <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
+        <sys_parent display_value="">96ce5061474e951024e32782846d43db</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
+        <sys_scope_delete display_value="">6f75336f37c74c3ba36d0abb703ef439</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9ece5061474e951024e32782846d43dd</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9ece5061474e951024e32782846d43dd">12ce5061474e951024e32782846d43e0</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
