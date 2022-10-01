@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Lead Screening" language="en" table="sn_niem_scr_lead">
+    <sys_documentation element="active" label="Active" language="en" table="sn_niem_scr_leadsourcecategorycode">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>active</element>
             <help/>
             <hint/>
-            <label>Lead Screening</label>
+            <label>Active</label>
             <language>en</language>
-            <name>sn_niem_scr_lead</name>
-            <plural>Lead Screenings</plural>
+            <name>sn_niem_scr_leadsourcecategorycode</name>
+            <plural>Active</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>marc.mouries</sys_created_by>
-            <sys_created_on>2022-09-09 20:16:23</sys_created_on>
-            <sys_name>Lead Screening</sys_name>
+            <sys_created_by>steven.ly</sys_created_by>
+            <sys_created_on>2022-09-23 18:04:07</sys_created_on>
+            <sys_name>Active</sys_name>
             <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
             <sys_policy/>
             <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
-            <sys_update_name>sys_documentation_sn_niem_scr_lead__en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_niem_scr_leadsourcecategorycode_active_en</sys_update_name>
             <url/>
             <url_target/>
         </sys_documentation>

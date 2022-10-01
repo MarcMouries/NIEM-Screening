@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
     <sys_app_application action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
         <description/>
         <device_type>browser</device_type>
@@ -14,15 +14,12 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>96a04916973d115081dd33271153af63</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>LeadStatusCategoryCode</sys_name>
         <sys_overrides/>
         <sys_package display_value="NIEM Screening" source="sn_niem_scr">d1a5d7fde1311110fa9be9a3694c3086</sys_package>
         <sys_policy/>
         <sys_scope display_value="NIEM Screening">d1a5d7fde1311110fa9be9a3694c3086</sys_scope>
         <sys_update_name>sys_app_application_96a04916973d115081dd33271153af63</sys_update_name>
-        <sys_updated_by>marc.mouries</sys_updated_by>
-        <sys_updated_on>2022-09-09 20:12:56</sys_updated_on>
         <title>LeadStatusCategoryCode</title>
         <view_name/>
     </sys_app_application>
